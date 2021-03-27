@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Hafid Idrissi</title>
+<body style="background:#DCDCDC;
+margin-left:20%; margin-right:20%">
+<style>
+p.a {
+    font: italic small-caps bold 12px/30px Georgia, serif;
+  }
+  h1.b{font-size: 3em;text-align:center ; background-color: rgb(105, 164, 223), 10%, 88%);
+
+  }
+div{ border: 1px solid black;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-right: 100px;
+  margin-left: 40px;
+  background-color: lightblue;}
+  h2 {border-style: double ; background-color:red }
+  img {border:5px solid grey}
+  a{text-align: center;}
+  </style>
+
+<div><h1 class="b">Hafid <br> Idrissi</h1></div>
+<img src="C:\Users\vPro\Pictures\Camera Roll\cv.jpg" alt="monphoto" width="150" height="133" >
+<hr>
+<p class= "a">Élève d’école d’ingénieur Yncrea Maroc.
+
+
+<hr>  
+<center> 
+<a href="mailto:Hafid.idrissi@student.yncrea.fr">Mon email</a>
+<hr>
+<a href="https://www.linkedin.com/in/hafid-idrissi-923901126/">Mon Linkedln</a>
+<hr>Tel:0687857486
+</p>
+</center> 
+<h2><b>F O R M A T I O N</b></h2>
+2020 - 2021
+Rabat, Maroc
+deuxieme ANNEE CLASSES PREPARATOIRES  
+
+<a href="https://yncreamaroc.ma/">YNCREA MAROC</a>
+<hr>
+2018 - 2019
+Kenitra, Maroc
+DIPLÔME Baccalauréat scientifique science physique option français.
+
+<hr>
+2017
+DIPLÔME Fondamentaux du Marketing Digital Google
+<h2><b>E X P E R I E N C E S</b></h2>
+Janvier 2020
+Temara, Maroc
+Membre d’association des jeunes créatifs.
+<hr>
+2017-2018
+Kenitra, Maroc
+Membre comité d’organisation dans Meet Up Youtubers.
+<hr>
+2016 –2017
+Kenitra, Maroc
+Competition Kenitra Speakers
+Compétiteur 
+<hr>
+<h2><b>I N T E R E T S </b></h2>
+✓ Design sur Adobe Illustrator : t-shirt,
+capuchons, logos, CV, carte visites.
+<hr>
+✓ Sport: Natation, musculation.
+<hr>
+✓ Bénévole dans une association.
+
+<hr>
+<h2  ><b>L A N G U E S  </b></h2>
+Arabe : Langue maternelle.
+<hr>
+Francais : Ecrite, lue, parlée.
+<hr>
+Anglais: Ecrite, lue, parlée (42/60 score Amideast).
+
+
+
+<hr>
+<h2 ><b>C O M P E T E N C E S </b></h2>
+<hr>
+<pre>
+✓Design 
+✓HTML
+✓CSS 
+✓PYTHON 
+</pre>
+<hr>
+</body>
+</head>
+</html>
